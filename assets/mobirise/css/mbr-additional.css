@@ -2249,6 +2249,8 @@ a {
   .cid-tXPqcsL6Xi img,
   .cid-tXPqcsL6Xi .image-wrapper {
     max-height: 350px;
+    object-fit: cover;
+    object-position: top;
   }
 }
 .cid-tXPqcsL6Xi .mbr-section-title {
